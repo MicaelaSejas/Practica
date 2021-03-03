@@ -1,3 +1,7 @@
 hola1
 
+
 Muy lejos, más allá de las montañas de palabras, alejados de los países de las vocales y las consonantes, viven los textos simulados.
+Este texto va a tener un merge
+Este otro texto va a tener otro merge
+
