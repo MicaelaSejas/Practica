@@ -1,1 +1,4 @@
 hola1
+
+Este texto va a tener un merge
+Este otro texto va a tener otro merge
